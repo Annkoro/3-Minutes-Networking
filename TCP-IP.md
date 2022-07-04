@@ -1,1 +1,1 @@
-TCP/IP（Transmission Control Protocol/Internet Protocol）は、現在のインターネット通信およびイントラネット通信において最も利用されている通信プロトコル。TCP/IPは複数のプロトコルからなるが、中心的な役割を果たすのがTCPとIPであることから TCP/IP と呼ばれるようになった。
+TCP/IP（Transmission Control Protocol/Internet Protocol）は、現在のインターネット通信およびイントラネット通信において最も利用されている通信プロトコル。TCP/IPは複数のプロトコルからなるが、中心的な役割を果たすのがTCPとIPであることから TCP/IP と呼ばれるようになった。（IP通信で使用するプロトコル群（ IP, ICMP, TCP, UDP, HTTP, SMTP, SSH,TELNETなど）を総称してTCP/IPと呼ぶ。）
